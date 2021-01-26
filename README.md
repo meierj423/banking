@@ -1,14 +1,25 @@
-## Getting Started
+# Banking App
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Description
 
-## Folder Structure
+This application allows you to add banks, branches to banks, customers to branches, and transactions to customers. 
 
-The workspace contains two folders by default, where:
+## Table of Contents
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- [Installation](#installation)
+- [License](#license)
+- [Questions](#questions)
 
-## Dependency Management
+## Installation
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+- Clone this repository 
+
+## License
+
+![](https://img.shields.io/badge/banking-app-green)
+
+## Questions
+
+For any additional questions, please send me an e-mail at jackson.meier423@gmail.com
+
+Link to my GitHub: https://github.com/meierj423
